@@ -1,0 +1,32 @@
+{
+    "colorInfo.excludedFields": [
+        "hex",
+        "css-color-name",
+        "rgb",
+        "alpha",
+        "cmyk",
+        "hsl",
+        "hsv",
+        "lab",
+        "lch",
+        "preview-square-xl",
+        "preview-square",
+        "preview-xl",
+        "preview"
+    ],
+    "colorInfo.fields": [
+        "alpha",
+        "cmyk",
+        "css-color-name",
+        "hex",
+        "hsl",
+        "hsv",
+        "lab",
+        "lch",
+        "preview-square-xl",
+        "preview-square",
+        "preview-xl",
+        "preview",
+        "rgb"
+    ]
+}
